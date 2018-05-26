@@ -5,11 +5,8 @@ title: Contact
 #date: 2016-03-21
 excerpt:    Contact me.
 serch_omit: true
-comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
 ## Features
 Contact Details
 Braj Kishor
