@@ -1,17 +1,10 @@
 ---
 layout: page
-title: Contact 
+title: About Me  
 #tags: [about, Jekyll, theme, moon]
 #date: 2016-03-21
-excerpt:    Contact me.
+#excerpt:    Contact me.
 serch_omit: true
 ---
-    
-## Features
-Contact Details
-Braj Kishor
-118 Jai Bajrang Society,
-Seminary Hills,
-Nagpur(MH) -440006,
-+91 8668621993
-+91 9420481864
+
+I am Saurav Kumar Dubey, a second year undergraduate in Computer Science and Engineering at Indian Institute of Information Technology Nagpur. I am broadly interested in Machine Learning, Big Data Analytics, Predictive Analysis and their applications. I love exploring and learning about new interesting things. I'm also extremely interested in solving puzzles and algorithmic challenges, which guided me to the world of competitive programming.
