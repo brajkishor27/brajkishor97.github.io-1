@@ -1,10 +1,11 @@
+
 # Site
-title: "Hi,I'm Braj Kishor"
-bio: "Sophomore at IIIT Nagpur"
-description: "Welcome to My Homepage".
-reading_time: true
-words_per_minute: 200
-#logo:       'assets/img/logo.png'
+title:              Braj Kishor
+bio:                'Sophomore at IIIT Nagpur'
+description:        "I am interested in machine learning"
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -15,7 +16,7 @@ permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
-  auto_ids:true
+  auto_ids:         true
   footnote_nr:      1
   entity_output:    as_char
   toc_levels:       1..6
@@ -26,25 +27,25 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname: Chhotu
+disqus_shortname:   #
 
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  plus: brajkishor97
-  analytics: UA-91042613-2 
+  #plus:            #username
+  #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email: kumarbrajkishor96@gmail.com
-twitter: braj_kishor97
-facebook: brajkishor97
-github-url: brajkishor97
-stackoverflow: braj kishor   from a "https://stackexchange.com/users/13311507/braj-kishor" link
-linkedin: Braj Kishor
-instagram: brajkishor27
-tumblr: brajkishor97
+email:              brajkishor2708@gmail.com
+twitter:            braj_kishor97
+facebook:           brajkishor97
+github-url:         brajkishor97
+stackoverflow:      braj kishor   from a "https://stackexchange.com/users/13311507/braj-kishor" link
+linkedin:           Braj Kishor
+instagram:          brajkishor27
+tumblr:             brajkishor97
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
@@ -74,4 +75,3 @@ jekyll-mentions:
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
 
 theme: jekyll-theme-cayman
-    
