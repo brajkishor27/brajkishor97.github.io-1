@@ -1,0 +1,13 @@
+<span id="a">about@parthwazurkar</span>:<span id="b">~</span><span id="c">$</span> cat -A about.txt<br/>Hi,
+I'm Braj Kishor.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag --> Mostly on the internet I am known by nick "parthw1".
+ a third year undergraduate in Computer Science and Engineering at <a href="http://www.iiitn.ac.in" 
+target="_blank">Indian Institute of Information Technology, Nagpur. </a> I hail from Begusarai Bihar(BR).
+I am broadly interested in Cloud Computing, Data Analytics, Middle Ware SOA, Machine Learning, Predictive
+Analysis and their applications. I love exploring and learning about new technology and science.<br/><br/> 
+I’m also extremely interested in solving puzzles and algorithmic challenges, which guided me to the world
+of competitive programming. Apart from Academics, I like to play badminton and cook. For more details on the
+academic front, have a look at my Resume.<a href="/assets/docs/braj_Resume.pdf" target="_blank"> Resume</a>.</p>
+
+
+
