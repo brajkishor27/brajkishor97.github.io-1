@@ -1,3 +1,22 @@
-# Site navigation links	 
- 	 
- - title: Projects
+# Site navigation links
+
+- title: About
+  url: /index.html
+
+- title: Blog
+  url: /blog/
+
+- title: My Projects
+  url: https://github.com/brajkishor97
+
+- title: Resume
+  url: /assets/docs/braj_Resume.pdf
+  
+#- title: GITHUB
+#  url: https://github.com/parthw1
+
+- title: Contact Me
+  url: /contact/
+  
+#- title: Search
+#  url: /search/
