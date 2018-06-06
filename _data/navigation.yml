@@ -3,17 +3,17 @@
 #- title: Blog
 #  url: /blog/
 
-- title: My Projects
-  url: https://github.com/parthw1
+#- title: My Projects
+# url: https://github.com/parthw1
 
-- title: Resume
-  url: /assets/docs/parth_resume.pdf
+#- title: Resume
+#  url: /assets/docs/parth_resume.pdf
   
 #- title: GITHUB
 #  url: https://github.com/parthw1
 
-- title: Contact Me
-  url: /contact/
+#- title: Contact Me
+#  url: /contact/
   
 #- title: Search
 #  url: /search/
